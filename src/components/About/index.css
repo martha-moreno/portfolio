@@ -1,0 +1,73 @@
+
+.img-fluid1{
+    width:100%;
+    height:100%;
+}
+
+.card-about{ 
+    width: 80%;
+    margin:auto;
+    
+}
+
+.card-title{
+    color: black;
+}
+
+.card-header-about{
+    background: #B57E7F;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    font-style: bold;
+}
+
+.card-text{
+    font-size: 1.5rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-footer{
+    background: white;
+    
+}
+
+.img-bottom{
+    margin-right:40px;
+}
+
+.btn-color{
+      display: block;
+      align-items: center;
+      width:30%;
+       margin:auto;
+       margin-top: 30px;
+       margin-bottom: 30px;
+      font-family: inherit;
+      font-weight: 500;
+      font-size: 16px;
+      padding: 0.7em 1.4em 0.7em 1.1em;
+      color: white;
+      background: #7EB599;
+      background: linear-gradient(0deg, #7EB599 0%, #7EB599 100%);
+      border: none;
+      box-shadow: 0 0.7em 1.5em -0.5em #7EB599;
+      letter-spacing: 0.05em;
+      border-radius: 20em;
+      cursor: pointer;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+    }
+    
+    .btn-color:hover {
+      box-shadow: 0 0.5em 1.5em -0.5em #7EB599;
+      border: 1px solid #7EB599;
+    }
+    
+    .btn-color:active {
+      box-shadow: 0 0.3em 1em -0.5em #7EB599;
+    } 
+
+
+

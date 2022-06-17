@@ -1,0 +1,26 @@
+
+.footer-section{
+    background: #B57E7F;
+    margin-top:10px;
+}
+
+
+h5{
+    font-size: 35px;
+    font-style: bold;
+    font-family: 'Roboto', sans-serif;
+    color:whitesmoke;
+}
+
+.a-footer{
+    text-align:  right;
+    display: inline-block;
+    margin: 40px 40px;
+    color:white;   
+}
+
+a:hover{
+    color:#B57E7F;
+}
+
+

@@ -1,0 +1,58 @@
+.container{
+   padding-top:30px;
+}
+.text-uppercase{
+    text-transform: uppercase;
+}
+
+h3{
+    padding-top:30%;
+    font-weight:500;
+    text-shadow: 4px 4px 4px #aaa;
+}
+
+
+h3::after{
+    content:"";
+    height: 2px;
+    width:15vw;
+    background: black;
+    display:inline-block;
+    margin-left:5%;
+    transform:translateY(-12px);
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    text-shadow: 4px 4px 4px #aaa;
+}
+
+h4{
+    color:#7EB599;
+    font-size: 1.5rem;
+    font-weight:500;  
+}
+
+.name-banner{
+    color: #B57E7F;
+    font-size: 5rem;
+    font-weight:700; 
+}
+
+.banner-image{
+    box-shadow: 10px 10px 5px #ccc;
+    border-radius: 25px;
+    -moz-border-radius:25px;
+  -webkit-border-radius:25px;
+ 
+}
+
+.banner-image:hover{
+    opacity:0.3;
+}
+
+
+
+
+
+

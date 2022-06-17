@@ -1,0 +1,91 @@
+.container{
+    margin:auto;
+}
+
+.card-body{
+    background:whitesmoke;
+    font-size: 18px;
+    text-align: center;
+}
+
+.card-title{
+    font-weight: 500;
+    font-style: bold;
+   color:#B57E7F;
+   font-family: 'RaleWay', sans-serif;
+   font-size:24px;
+   text-align: center;
+ 
+}
+.card-img-top{
+    width:100%;
+ 
+}
+
+.card-img-top:hover{
+    opacity: 0.5;
+}
+
+.btn-custom{
+    display:inline-block;
+    height:auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 12px;
+    color: white;
+    background: #7EB599;
+    background: linear-gradient(0deg, #7EB599 0%, #7EB599 100%);
+    border: none;
+    box-shadow: 0 0.7em 1.5em -0.5em #7EB599;
+    letter-spacing: 0.05em;
+    border-radius: 20em;
+    cursor: pointer;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  .btn-custom:hover {
+    box-shadow: 0 0.5em 1.5em -0.5em #7EB599;
+    border: 1px solid #7EB599;
+  }
+  
+  .btn-custom:active {
+    box-shadow: 0 0.3em 1em -0.5em #7EB599;
+  } 
+
+.title{
+    color:#B57E7F;
+    font-family: Roboto;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    text-shadow: 4px 4px 4px #aaa;
+   font-size:50px;
+   padding-bottom:30px;
+}
+
+.title:before {
+    content: "";
+    flex: 1 1;
+    border-bottom: 1px solid;
+    margin: auto;
+}
+
+.title:after {
+    content: "";
+    flex: 1 1;
+    border-bottom: 1px solid;
+    margin: auto;
+}
+
+.title:before {
+    margin-right: 10px
+}
+.title:after {
+    margin-left: 10px
+}
+
+ 

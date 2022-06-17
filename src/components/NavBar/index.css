@@ -1,0 +1,40 @@
+
+.navbar-logo{
+    margin-left:50px;
+}
+
+
+.nav-link{
+    font-family: 'Roboto', sans-serif;
+    text-transform:uppercase;
+    font-size: 2rem;
+    font-weight:500;
+    padding:1.7rem;
+    color: black;
+
+}
+
+.active{
+    font-family: 'Roboto', sans-serif;
+    text-transform:uppercase;
+    font-size: 2rem;
+    font-weight:500;
+    padding:1.7rem;
+    color: #fff;
+    background:#7EB599;
+}
+
+a{
+    text-align:  right;
+    display: inline-block;
+    margin: 40px 40px;
+    
+}
+a:hover{
+    font-weight: bold;
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:#7EB599;
+    background-clip:text;
+}
+
+
