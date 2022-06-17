@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.00b1a248.css",
+    "main.js": "/portfolio/static/js/main.d6bfe329.js",
+    "static/js/787.9792ac6d.chunk.js": "/portfolio/static/js/787.9792ac6d.chunk.js",
+    "static/media/Resume-Martha.pdf": "/portfolio/static/media/Resume-Martha.b670ccaeadf32cd59b27.pdf",
+    "static/media/mern.png": "/portfolio/static/media/mern.027ba0d2fa6e61c5d945.png",
+    "static/media/Martha.jpg": "/portfolio/static/media/Martha.c8de4e68081c93751a57.jpg",
+    "static/media/Logo.png": "/portfolio/static/media/Logo.8a5236b816eff5fa6030.png",
+    "static/media/HTML5.png": "/portfolio/static/media/HTML5.b7d94634abe3d55dc16f.png",
+    "static/media/Bank.jpeg": "/portfolio/static/media/Bank.aa8175ee8ee858015e1f.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.00b1a248.css.map": "/portfolio/static/css/main.00b1a248.css.map",
+    "main.d6bfe329.js.map": "/portfolio/static/js/main.d6bfe329.js.map",
+    "787.9792ac6d.chunk.js.map": "/portfolio/static/js/787.9792ac6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00b1a248.css",
+    "static/js/main.d6bfe329.js"
+  ]
+}
